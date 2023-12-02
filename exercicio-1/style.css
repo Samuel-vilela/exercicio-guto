@@ -1,0 +1,20 @@
+form{
+    align-items: center; 
+    text-align: center;
+    color: azure;
+} 
+
+button{
+    background-color: black;
+    color: rgb(238, 164, 3); 
+    border-radius: 10vh;
+    width: 200px;
+    padding: 50px;
+    align-items: center;
+
+} 
+
+body{
+    background-image: url(pexels-shonejai-1227511.jpg);
+    background-size: cover;
+}
