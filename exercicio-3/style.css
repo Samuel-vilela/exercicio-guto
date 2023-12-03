@@ -1,0 +1,32 @@
+header{
+
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    border:10px yellow dotted;
+}
+
+li{
+    color: aliceblue;
+    text-align: center; 
+    font-family: 'Nova Square', sans-serif;
+}
+
+input{
+    border: 8px yellow double;
+    width: 50vh;
+    height: 50vh;
+    padding: 4vh;
+    text-align: center;
+    font-size: large;
+} 
+
+button{
+    width: 10em;
+    height: 10em;
+    background-color: black;
+    color: yellow;
+
+
+}

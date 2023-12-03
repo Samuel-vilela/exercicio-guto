@@ -1,0 +1,32 @@
+header{
+
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    border:10px rgb(0, 187, 255) double;
+}
+
+li{
+    color: aliceblue;
+    text-align: center; 
+    font-family: 'Nova Square', sans-serif;
+}
+
+input{
+    border: 8px rgb(0, 166, 255) double;
+    width: 30vh;
+    height: 30vh;
+    padding: 4vh;
+    text-align: center;
+    font-size: large;
+} 
+
+button{
+    width: 10em;
+    height: 10em;
+    background-color: black;
+    color: rgb(0, 140, 255);
+
+
+}

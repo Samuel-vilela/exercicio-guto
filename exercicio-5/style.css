@@ -1,0 +1,39 @@
+header{
+
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    border:10px rgb(81, 255, 0) double;
+}
+
+li{
+    color: aliceblue;
+    text-align: center; 
+    font-family: 'Nova Square', sans-serif;
+}
+
+input{
+    border: 8px rgb(89, 255, 0) double;
+    width: 30vh;
+    height: 30vh;
+    padding: 4vh;
+    text-align: center;
+    font-size: large;
+} 
+
+button{
+    width: 10em;
+    height: 10em;
+    background-color: black;
+    color: rgb(89, 255, 0);
+
+
+}
+div{
+    border: 30px rgb(89, 255, 0 double);
+    width: 10em;
+    height: 40px;
+    color: rgb(81, 255, 0);
+    display: flex;
+}
