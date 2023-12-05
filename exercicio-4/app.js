@@ -5,13 +5,10 @@ function mostrarnota(){
     let nota3 = parseFloat(document.getElementById("nota3").value) 
     let nota4 = parseFloat(document.getElementById("nota4").value)
     
-    if (!isNaN(nota1) && !isNaN(nota2) && !isNaN(nota3) && !isNaN(nota4)){
     let soma = nota1 + nota2 + nota3 + nota4;
     let media = soma / 4; 
+    
     document.getElementById("media").innerText = "A media final é: " + media;
-    } else{
-    document.getElementById("media").innerText = "Por favor digite numeros validos"
-    } 
 
     document.getElementById("nota1").value = "";
     document.getElementById("nota2").value = "";

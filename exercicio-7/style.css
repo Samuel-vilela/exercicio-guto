@@ -1,12 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
-
 header{
 
     background: black;
     display: flex;
     flex-wrap: wrap;
     padding: 50px;
-    border:10px rgb(0, 187, 255) double;
+    border:10px rgb(255, 153, 0) double;
 }
 
 li{
@@ -16,7 +14,7 @@ li{
 }
 
 input{
-    border: 8px rgb(0, 166, 255) double;
+    border: 8px rgb(255, 145, 0) double;
     width: 30vh;
     height: 30vh;
     padding: 4vh;
@@ -28,11 +26,10 @@ button{
     width: 10em;
     height: 10em;
     background-color: black;
-    color: rgb(0, 140, 255);
+    color: rgb(255, 136, 0);
 
 
-} 
-
-div{
-    border: solid 50px blue;
+}
+h3{
+    border: solid 10px crimson;
 }
